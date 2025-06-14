@@ -10,11 +10,9 @@ To get the full Go-Dark experience with expected colouring please follow these s
 
 1. in your project root create a folder called .vscode
 
-2. inside the .vscode folder create a filet called settings.json
+2. inside the .vscode folder create a file called settings.json
 
 3. add the following snippet to settings.json
-
-4. OPTIONAL: add .vscode/settings.json to your .gitignore if these settings are personal and shouldn't be version controlled.
 
 ```
 {
@@ -28,7 +26,12 @@ To get the full Go-Dark experience with expected colouring please follow these s
 }
 ```
 
+4. OPTIONAL: add .vscode/settings.json to your .gitignore if these settings are personal and shouldn't be version controlled.
+
 ---
+
+☕If you you've found this helpful and woud like to support me in future endeavours here is my ko-fo☕
+https://ko-fi.com/pittsgithub
 
 ## Features
 
