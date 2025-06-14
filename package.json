@@ -1,0 +1,21 @@
+{
+  "name": "go-dark",
+  "displayName": "go-dark",
+  "description": "A sleek, high-contrast dark theme tailored for Go development with semantic highlighting and custom string, comment, and import styling.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Go-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Go-Dark-color-theme.json"
+      }
+    ]
+  }
+}
